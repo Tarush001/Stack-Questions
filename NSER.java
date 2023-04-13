@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class nser {
+public class NSER {
     //Function to find the next smallest element for right each element of the array.
     public static long[] nextSmallestElement(long[] arr, int n)
     { 
