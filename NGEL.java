@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class ngel {
+public class NGEL {
     public static void main(String[] args) {
         
         int[] arr= {1,5,6,2,4,6,7,12};
