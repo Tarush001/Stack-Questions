@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class nsel {
+public class NSEL {
     public static void main(String[] args) {
         
         int[] arr= {1,5,6,2,4,6,7,12};
