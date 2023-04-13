@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class nger {
+class NGER {
     public static void main(String[] args) {
         
         int[] arr= {1,5,6,2,4,6,7,12};
